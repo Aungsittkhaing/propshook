@@ -1,0 +1,19 @@
+.listContainer{
+    border: 1px solid black;
+    margin: 10px 0;
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    justify-content: space-between;
+}
+.done{
+    background-color: #6200EE;
+    text-decoration: line-through;
+}
+.textContainer{
+    display: flex;
+}
+.btnContainer >button{
+    margin-right: 10px;
+}

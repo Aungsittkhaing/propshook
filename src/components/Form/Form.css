@@ -1,0 +1,10 @@
+.formContainer{
+    display: flex;
+  }
+  .formContainer >input{
+    flex: 1;
+    padding: 5px 10px;
+  }
+  .formContainer >button{
+    margin-left: 5px;
+  }
